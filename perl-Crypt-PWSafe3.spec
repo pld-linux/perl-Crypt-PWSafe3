@@ -14,8 +14,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Crypt/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	4f770e04dee6b423281bafdf7a8b0f49
-# generic URL, check or change before uncommenting
-#URL:		http://search.cpan.org/dist/Crypt-PWSafe3/
+URL:		http://search.cpan.org/dist/Crypt-PWSafe3/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
