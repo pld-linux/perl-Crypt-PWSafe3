@@ -4,7 +4,6 @@
 #
 %define		pdir	Crypt
 %define		pnam	PWSafe3
-%include	/usr/lib/rpm/macros.perl
 Summary:	Crypt::PWSafe3 - Read and write Passwordsafe v3 files
 Name:		perl-Crypt-PWSafe3
 Version:	1.21
